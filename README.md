@@ -13,6 +13,9 @@ Novel library is a novel catalog website hosted in Amazon lightsail ubuntu linux
 
 * http://13.232.236.221/ or http://13.232.236.221.xip.io
 
+* The website is configured to make use of only two ports for connection http(80) and ssh(2200).
+
+
 ## Summary of softwares installed and configuration changes made.
 
 * The application is hosted on Ubuntu 16 linux server/machine instance from Amazon lightsail.
@@ -24,4 +27,10 @@ Novel library is a novel catalog website hosted in Amazon lightsail ubuntu linux
 
 ## Third-party resource
 
-* Psycopg2
+* Python docs
+* Flask docs
+* Postgresql docs
+* SQLAlchemy docs
+* Apache docs
+* WSGI docs
+* Git
